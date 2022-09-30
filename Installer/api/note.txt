@@ -1,0 +1,2 @@
+node/bin/node -v
+curl -o UK1-U1.conf --cacert ssl/API-TLS-CA-ED25519.crt https://192.168.1.106/UK1-U1.conf

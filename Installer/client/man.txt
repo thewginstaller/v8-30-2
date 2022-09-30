@@ -1,0 +1,5 @@
+export GO111MODULE="off"
+go build main.go
+go run main.go
+go build .
+go run .
